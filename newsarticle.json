@@ -1,0 +1,1330 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/63cbaffa-3397-5c88-9122-2aac1d112d3f",
+      "url": "https://www.nytimes.com/2022/11/01/well/better-sleep-tips.html",
+      "id": 100000008591166,
+      "asset_id": 100000008591166,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-04 01:44:21",
+      "section": "Well",
+      "subsection": "",
+      "nytdsection": "well",
+      "adx_keywords": "Books and Literature;Sleep;Insomnia;Anxiety and Stress;Content Type: Service",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "Can’t Sleep? Try Sticking Your Head in the Freezer.",
+      "abstract": "In a new book, a sleep scientist offers tips for better rest — without reaching for a pill.",
+      "des_facet": [
+        "Books and Literature",
+        "Sleep",
+        "Insomnia",
+        "Anxiety and Stress",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Rachel Levit Ruiz",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/well/31Well-SleepRX/31Well-SleepRX-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/well/31Well-SleepRX/31Well-SleepRX-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/well/31Well-SleepRX/31Well-SleepRX-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5a4b179e-db3f-538f-b03f-004f44fe853b",
+      "url": "https://www.nytimes.com/2022/11/04/opinion/israel-netanyahu.html",
+      "id": 100000008617197,
+      "asset_id": 100000008617197,
+      "source": "New York Times",
+      "published_date": "2022-11-04",
+      "updated": "2022-11-06 22:37:54",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Politics and Government;Elections;Palestinians;Arabs;Jews and Judaism;Right-Wing Extremism and Alt-Right;Netanyahu, Benjamin;Ben-Gvir, Itamar;Israel;West Bank",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "The Israel We Knew Is Gone",
+      "abstract": "Bibi Netanyahu is poised to form a government with allies once seen as completely outside the norms and boundaries of Israeli politics.",
+      "des_facet": [
+        "Politics and Government",
+        "Elections",
+        "Palestinians",
+        "Arabs",
+        "Jews and Judaism",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Netanyahu, Benjamin",
+        "Ben-Gvir, Itamar"
+      ],
+      "geo_facet": [
+        "Israel",
+        "West Bank"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Amit Elkayam for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/05/opinion/04friedman1/04friedman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/05/opinion/04friedman1/04friedman1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/05/opinion/04friedman1/04friedman1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/fb2f4754-03c6-526d-8193-90ac49803052",
+      "url": "https://www.nytimes.com/2022/11/02/well/move/rowing-machine-workout-guide.html",
+      "id": 100000008516950,
+      "asset_id": 100000008516950,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-02 12:53:18",
+      "section": "Well",
+      "subsection": "Move",
+      "nytdsection": "well",
+      "adx_keywords": "Exercise;Rowing;Content Type: Service;Health Clubs;Boats and Boating;Weight Lifting",
+      "column": null,
+      "byline": "By Dana G. Smith",
+      "type": "Article",
+      "title": "A Beginner’s Guide to the Rowing Machine",
+      "abstract": "Fitness companies have caught on to the fact that these devices deliver an intense full-body workout.",
+      "des_facet": [
+        "Exercise",
+        "Rowing",
+        "Content Type: Service",
+        "Health Clubs",
+        "Boats and Boating",
+        "Weight Lifting"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Melissa Lukenbaugh for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-thumbStandard-v2.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/multimedia/26WNT-ROWING-WORKOUT5-1-310a/26WNT-ROWING-WORKOUT5-1-310a-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ee22bf68-9b66-5df6-b602-e45dcb08d420",
+      "url": "https://www.nytimes.com/2022/11/05/opinion/election-republican-greene-vance.html",
+      "id": 100000008616211,
+      "asset_id": 100000008616211,
+      "source": "New York Times",
+      "published_date": "2022-11-05",
+      "updated": "2022-11-06 16:24:07",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Midterm Elections (2022);Democracy (Theory and Philosophy);United States Politics and Government;Right-Wing Extremism and Alt-Right;Conspiracy Theories;Boebert, Lauren;Greene, Marjorie Taylor (1974- );Lake, Kari A;DeSantis, Ron;Trump, Donald J;Republican Party",
+      "column": null,
+      "byline": "By Maureen Dowd",
+      "type": "Article",
+      "title": "The Marjorie Taylor Greene-ing of America",
+      "abstract": "Many flew over the Capitol cuckoo’s nest.",
+      "des_facet": [
+        "Midterm Elections (2022)",
+        "Democracy (Theory and Philosophy)",
+        "United States Politics and Government",
+        "Right-Wing Extremism and Alt-Right",
+        "Conspiracy Theories"
+      ],
+      "org_facet": [
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Boebert, Lauren",
+        "Greene, Marjorie Taylor (1974- )",
+        "Lake, Kari A",
+        "DeSantis, Ron",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mark Peterson for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/opinion/05dowd-image/05dowd-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/opinion/05dowd-image/05dowd-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/08/opinion/05dowd-image/05dowd-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/d2a807dc-e01a-5d7a-baa0-a6868bd426c7",
+      "url": "https://www.nytimes.com/2022/11/03/t-magazine/spain-islamic-history.html",
+      "id": 100000008587925,
+      "asset_id": 100000008587925,
+      "source": "New York Times",
+      "published_date": "2022-11-03",
+      "updated": "2022-11-03 09:13:46",
+      "section": "T Magazine",
+      "subsection": "",
+      "nytdsection": "t magazine",
+      "adx_keywords": "Religion and Belief;Mosques;Christians and Christianity;Muslims and Islam;Jews and Judaism;Culture (Arts);Architecture;Middle Ages (Historical Period);Columbus, Christopher;Spain;Seville (Spain)",
+      "column": null,
+      "byline": "By Aatish Taseer and Richard Mosse",
+      "type": "Article",
+      "title": "In Search of a Lost Spain",
+      "abstract": "In the southern part of the country, churches and streets hold the remnants of eight centuries of Islamic rule.",
+      "des_facet": [
+        "Religion and Belief",
+        "Mosques",
+        "Christians and Christianity",
+        "Muslims and Islam",
+        "Jews and Judaism",
+        "Culture (Arts)",
+        "Architecture",
+        "Middle Ages (Historical Period)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Columbus, Christopher"
+      ],
+      "geo_facet": [
+        "Spain",
+        "Seville (Spain)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The ceiling of the Hall of Ambassadors in the Alcazar in Seville, Spain. Built by Peter I of Castile (1334-69), the structure is an example of the Mudéjar style of architecture, in which Islamic ornamentation and building techniques were overlaid with Christian meaning.",
+          "copyright": "Richard Mosse",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/03/t-magazine/03tmag-spain-slide-9VKO-copy/03tmag-spain-slide-9VKO-copy-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/03/t-magazine/03tmag-spain-slide-9VKO-copy/03tmag-spain-slide-9VKO-copy-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/03/t-magazine/03tmag-spain-slide-9VKO-copy/03tmag-spain-slide-9VKO-copy-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/17b7655c-1627-59c8-9815-b3806f2c4128",
+      "url": "https://www.nytimes.com/2022/11/04/arts/music/barbra-streisand-live-at-the-bon-soir.html",
+      "id": 100000008601715,
+      "asset_id": 100000008601715,
+      "source": "New York Times",
+      "published_date": "2022-11-04",
+      "updated": "2022-11-06 22:39:47",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Music;Content Type: Personal Profile;Audio Recordings, Downloads and Streaming;internal-sub-only;Streisand, Barbra",
+      "column": null,
+      "byline": "By Wesley Morris",
+      "type": "Article",
+      "title": "Barbra Streisand on Her Pristine Early Recordings: ‘That Girl Can Sing’",
+      "abstract": "“Live at the Bon Soir,” a restored set of songs from November 1962, allows listeners today — and Streisand, herself — to rediscover the sounds of a star being born.",
+      "des_facet": [
+        "Music",
+        "Content Type: Personal Profile",
+        "Audio Recordings, Downloads and Streaming",
+        "internal-sub-only"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Streisand, Barbra"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Barbra Streisand onstage at the Bon Soir in the West Village. A collection of her newly restored recordings from the small West Village club is being released as “Live at the Bon Soir.”",
+          "copyright": "Don Hunstein/Columbia Records",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/05/arts/04streisand1/04streisand1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/05/arts/04streisand1/04streisand1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/05/arts/04streisand1/04streisand1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4c9634b9-aa9e-5196-9daa-59ca5130fcb2",
+      "url": "https://www.nytimes.com/2022/11/01/opinion/china-united-states-trade-economy.html",
+      "id": 100000008609120,
+      "asset_id": 100000008609120,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-02 14:06:45",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "International Relations;United States International Relations;United States Economy;International Trade and World Market;Supply Chain;Economic Conditions and Trends;Politics and Government;Xi Jinping;World Trade Organization;China;Europe",
+      "column": null,
+      "byline": "By Thomas L. Friedman",
+      "type": "Article",
+      "title": "How China Lost America",
+      "abstract": "Four trends have led to the end of the steady integration of the Chinese economy with the West.",
+      "des_facet": [
+        "International Relations",
+        "United States International Relations",
+        "United States Economy",
+        "International Trade and World Market",
+        "Supply Chain",
+        "Economic Conditions and Trends",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        "World Trade Organization"
+      ],
+      "per_facet": [
+        "Xi Jinping"
+      ],
+      "geo_facet": [
+        "China",
+        "Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Noel Celis/Agence France-Presse — Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/opinion/01friedmantop/01friedmantop-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/opinion/01friedmantop/01friedmantop-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/opinion/01friedmantop/01friedmantop-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e2832a9e-abd8-5898-a91d-24430521ab29",
+      "url": "https://www.nytimes.com/2022/11/02/magazine/russiagate-paul-manafort-ukraine-war.html",
+      "id": 100000008604644,
+      "asset_id": 100000008604644,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-06 15:35:51",
+      "section": "Magazine",
+      "subsection": "",
+      "nytdsection": "magazine",
+      "adx_keywords": "Russian Interference in 2016 US Elections and Ties to Trump Associates;Russian Invasion of Ukraine (2022);Presidential Election of 2016;United States International Relations;International Relations;United States Politics and Government;Politics and Government;Trump, Donald J;Manafort, Paul J;Kilimnik, Konstantin V;Yanukovych, Viktor F;Putin, Vladimir V;Biden, Joseph R Jr;Ukraine;Russia",
+      "column": null,
+      "byline": "By Jim Rutenberg",
+      "type": "Article",
+      "title": "The Untold Story of ‘Russiagate’ and the Road to War in Ukraine",
+      "abstract": "Russia’s meddling in Trump-era politics was more directly connected to the current war than previously understood.",
+      "des_facet": [
+        "Russian Interference in 2016 US Elections and Ties to Trump Associates",
+        "Russian Invasion of Ukraine (2022)",
+        "Presidential Election of 2016",
+        "United States International Relations",
+        "International Relations",
+        "United States Politics and Government",
+        "Politics and Government"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Manafort, Paul J",
+        "Kilimnik, Konstantin V",
+        "Yanukovych, Viktor F",
+        "Putin, Vladimir V",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Ukraine",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Photo illustration by Anthony Gerace",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/magazine/06mag-Manafort-1/06mag-Manafort-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/magazine/06mag-Manafort-1/06mag-Manafort-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/magazine/06mag-Manafort-1/06mag-Manafort-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2d7883e2-0c44-59e7-8ef4-ef660363f579",
+      "url": "https://www.nytimes.com/2022/11/04/realestate/housing-market-interest-rates.html",
+      "id": 100000008556417,
+      "asset_id": 100000008556417,
+      "source": "New York Times",
+      "published_date": "2022-11-04",
+      "updated": "2022-11-05 15:32:57",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Real Estate and Housing (Residential);Mortgages;Interest Rates;Prices (Fares, Fees and Rates);Inflation (Economics);Renting and Leasing (Real Estate);United States",
+      "column": null,
+      "byline": "By Stefanos Chen",
+      "type": "Article",
+      "title": "The Housing Market Is Worse Than You Think",
+      "abstract": "Buyers, sellers and renters are in for more twists and turns, as soaring mortgage rates and stubborn inflation signal belt tightening ahead.",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Mortgages",
+        "Interest Rates",
+        "Prices (Fares, Fees and Rates)",
+        "Inflation (Economics)",
+        "Renting and Leasing (Real Estate)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Mariaelena Caputi",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/realestate/04Market_Main_illo/04Market_Main_illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/realestate/04Market_Main_illo/04Market_Main_illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/realestate/04Market_Main_illo/04Market_Main_illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/a9d83e7f-63ea-5ba0-940c-42f6c6961b1c",
+      "url": "https://www.nytimes.com/2022/11/02/travel/domestic-flights-real-id-passport.html",
+      "id": 100000008598994,
+      "asset_id": 100000008598994,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-06 22:15:06",
+      "section": "Travel",
+      "subsection": "",
+      "nytdsection": "travel",
+      "adx_keywords": "Identification Devices;Drivers Licenses;Travel and Vacations;Airlines and Airplanes;Privacy;Law and Legislation;United States Politics and Government;Content Type: Service;Transportation Security Administration",
+      "column": null,
+      "byline": "By Debra Kamin",
+      "type": "Article",
+      "title": "Planning to Fly? You’ll Need This ID",
+      "abstract": "For years, the government has warned travelers they will need a security-enhanced Real ID to board domestic flights, and for years the requirement has been delayed. Now they mean it.",
+      "des_facet": [
+        "Identification Devices",
+        "Drivers Licenses",
+        "Travel and Vacations",
+        "Airlines and Airplanes",
+        "Privacy",
+        "Law and Legislation",
+        "United States Politics and Government",
+        "Content Type: Service"
+      ],
+      "org_facet": [
+        "Transportation Security Administration"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Tom Grillo",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/07/travel/02Real-ID-illo-print/02Real-ID-illo-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/07/travel/02Real-ID-illo-print/02Real-ID-illo-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/07/travel/02Real-ID-illo-print/02Real-ID-illo-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/db90595f-a127-5839-9558-dc133f23f3e6",
+      "url": "https://www.nytimes.com/article/crowd-crush-safety.html",
+      "id": 100000008608832,
+      "asset_id": 100000008608832,
+      "source": "New York Times",
+      "published_date": "2022-10-31",
+      "updated": "2022-11-02 11:36:18",
+      "section": "Well",
+      "subsection": "Live",
+      "nytdsection": "well",
+      "adx_keywords": "Stampedes;Content Type: Service;Disasters and Emergencies",
+      "column": null,
+      "byline": "By Dani Blum",
+      "type": "Article",
+      "title": "What to Do if You Find Yourself in a Crowd Crush",
+      "abstract": "While tragedies such as the deaths of 151 people at a Halloween event in Seoul are rare, anyone attending a big gathering should keep these safety tips in mind, experts say.",
+      "des_facet": [
+        "Stampedes",
+        "Content Type: Service",
+        "Disasters and Emergencies"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/31/well/WELL-CROWD-CRUSH1/WELL-CROWD-CRUSH1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/31/well/WELL-CROWD-CRUSH1/WELL-CROWD-CRUSH1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/31/well/WELL-CROWD-CRUSH1/WELL-CROWD-CRUSH1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/eb2365b6-50db-5799-b0c6-d4fc2583f72e",
+      "url": "https://www.nytimes.com/2022/11/01/dining/julie-powell-dead.html",
+      "id": 100000008609963,
+      "asset_id": 100000008609963,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-03 14:41:34",
+      "section": "Food",
+      "subsection": "",
+      "nytdsection": "food",
+      "adx_keywords": "Deaths (Obituaries);Cooking and Cookbooks;Writing and Writers;Books and Literature;Movies;Blogs and Blogging (Internet);Powell, Julie;Child, Julia",
+      "column": null,
+      "byline": "By Kim Severson and Julia Moskin",
+      "type": "Article",
+      "title": "Julie Powell, Food Writer Known for ‘Julie & Julia,’ Dies at 49",
+      "abstract": "She attempted to cook every recipe in a classic Julia Child cookbook and documented the effort in a popular blog that became a best-selling book and a hit movie.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Cooking and Cookbooks",
+        "Writing and Writers",
+        "Books and Literature",
+        "Movies",
+        "Blogs and Blogging (Internet)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Powell, Julie",
+        "Child, Julia"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Julie Powell in 2009, the year Nora Ephron's movie “Julie & Julia,” based on Ms. Powell’s book, was released.",
+          "copyright": "Kelly Campbell, via Little, Brown &amp; Company",
+          "approved_for_syndication": 0,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/dining/01powell-obit1/merlin_29215068_e3a6bb15-0501-415c-8920-b58412a3661e-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/dining/01powell-obit1/merlin_29215068_e3a6bb15-0501-415c-8920-b58412a3661e-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/dining/01powell-obit1/merlin_29215068_e3a6bb15-0501-415c-8920-b58412a3661e-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c93517fc-d1ab-5a37-bad7-f7b92c616c5f",
+      "url": "https://www.nytimes.com/2022/10/31/realestate/fast-furniture-clogged-landfills.html",
+      "id": 100000008538125,
+      "asset_id": 100000008538125,
+      "source": "New York Times",
+      "published_date": "2022-10-31",
+      "updated": "2022-11-07 08:32:54",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Furniture;Real Estate and Housing (Residential);Sustainable Living;Shopping and Retail;E-Commerce;Corporate Social Responsibility;audio-neutral-informative;Ikea;Fernished Inc;Wayfair Inc",
+      "column": null,
+      "byline": "By Debra Kamin",
+      "type": "Article",
+      "title": "‘Fast Furniture’ Is Cheap. And Americans Are Throwing It in the Trash.",
+      "abstract": "The mass-produced furniture that sold furiously during the pandemic could soon be clogging landfills.",
+      "des_facet": [
+        "Furniture",
+        "Real Estate and Housing (Residential)",
+        "Sustainable Living",
+        "Shopping and Retail",
+        "E-Commerce",
+        "Corporate Social Responsibility",
+        "audio-neutral-informative"
+      ],
+      "org_facet": [
+        "Ikea",
+        "Fernished Inc",
+        "Wayfair Inc"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Consumers in the United States spent $4 billion more on desks, chairs and patio equipment in 2021 than they did in 2019. Environmentalists say that a lot of the products sold during the pandemic weren’t built to last.",
+          "copyright": "John Taggart for The New York Times.",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/19/travel/00fastfurniture-wayfair/00fastfurniture-wayfair-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/19/travel/00fastfurniture-wayfair/00fastfurniture-wayfair-mediumThreeByTwo210-v2.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/19/travel/00fastfurniture-wayfair/00fastfurniture-wayfair-mediumThreeByTwo440-v2.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/4d89f4bc-e180-59b3-a8f3-0ba8ba04b6d6",
+      "url": "https://www.nytimes.com/2022/11/01/opinion/ezra-klein-podcast-pippa-norris.html",
+      "id": 100000008596638,
+      "asset_id": 100000008596638,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-01 12:48:31",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "audio-neutral-informative;Right-Wing Extremism and Alt-Right;Politics and Government;Midterm Elections (2022);Trump, Donald J;Orban, Viktor;Bolsonaro, Jair (1955- );Le Pen, Marine",
+      "column": null,
+      "byline": "By ‘The Ezra Klein Show’",
+      "type": "Article",
+      "title": "A Powerful Theory of Why the Far Right Is Thriving Across the Globe",
+      "abstract": "The political scientist Pippa Norris explains how a ‘silent revolution in values’ is fueling the global rise of the right.",
+      "des_facet": [
+        "audio-neutral-informative",
+        "Right-Wing Extremism and Alt-Right",
+        "Politics and Government",
+        "Midterm Elections (2022)"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Orban, Viktor",
+        "Bolsonaro, Jair (1955- )",
+        "Le Pen, Marine"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Topjur01",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/opinion/01eks-norris-image/01eks-norris-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/opinion/01eks-norris-image/01eks-norris-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/opinion/01eks-norris-image/01eks-norris-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8477808e-3b75-573f-b6dc-3e55abe6f78a",
+      "url": "https://www.nytimes.com/2022/10/31/arts/music/the-beatles-revolver-reissue.html",
+      "id": 100000008603157,
+      "asset_id": 100000008603157,
+      "source": "New York Times",
+      "published_date": "2022-10-31",
+      "updated": "2022-11-05 10:04:11",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Pop and Rock Music;Lennon, John;McCartney, Paul;Harrison, George;Starr, Ringo;Martin, George (1926-2016);Beatles, The",
+      "column": null,
+      "byline": "By Jon Pareles",
+      "type": "Article",
+      "title": "‘Revolver,’ Newly Expanded, Shows the Beatles at a Creative Peak",
+      "abstract": "A five-disc set reveals a band awash with musical and sonic ideas, having fun and making breakthroughs.",
+      "des_facet": [
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "Beatles, The"
+      ],
+      "per_facet": [
+        "Lennon, John",
+        "McCartney, Paul",
+        "Harrison, George",
+        "Starr, Ringo",
+        "Martin, George (1926-2016)"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: George Harrison, Paul McCartney, Ringo Starr and John Lennon of the Beatles in 1966, the year they released “Revolver.”",
+          "copyright": " Hulton-Deutsch Collection/Corbis, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/31/arts/31beatles3/31beatles3-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/31/arts/31beatles3/31beatles3-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/31/arts/31beatles3/31beatles3-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/f55280a9-a7cf-5051-8a83-225106979073",
+      "url": "https://www.nytimes.com/2022/10/30/science/tutankhamen-nefertiti-archaeology.html",
+      "id": 100000008601258,
+      "asset_id": 100000008601258,
+      "source": "New York Times",
+      "published_date": "2022-10-30",
+      "updated": "2022-11-04 09:55:50",
+      "section": "Science",
+      "subsection": "",
+      "nytdsection": "science",
+      "adx_keywords": "Egyptian Civilization;Tombs and Tombstones;your-feed-science;Archaeology and Anthropology;Nefertiti;Reeves, Nicholas (1956- );Tutankhamen;Egypt;Cairo (Egypt)",
+      "column": null,
+      "byline": "By Franz Lidz",
+      "type": "Article",
+      "title": "King Tut Died Long Ago, but the Debate About His Tomb Rages On",
+      "abstract": "Maybe the walls are disguising the undiscovered burial chamber of Nefertiti. Or “maybe it’s Al Capone’s safe.”",
+      "des_facet": [
+        "Egyptian Civilization",
+        "Tombs and Tombstones",
+        "your-feed-science",
+        "Archaeology and Anthropology"
+      ],
+      "org_facet": [
+        
+      ],
+      "per_facet": [
+        "Nefertiti",
+        "Reeves, Nicholas (1956- )",
+        "Tutankhamen"
+      ],
+      "geo_facet": [
+        "Egypt",
+        "Cairo (Egypt)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Tourists looking at the tomb of King Tut, as displayed in a glass case at the Valley of the Kings in Luxor, Egypt, in November 2015.",
+          "copyright": "Amr Nabil/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/science/00SCI-NEFERTITI-01/00SCI-NEFERTITI-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/science/00SCI-NEFERTITI-01/merlin_215531844_bd800f72-07b9-42a7-b808-7f8792ccb832-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/01/science/00SCI-NEFERTITI-01/merlin_215531844_bd800f72-07b9-42a7-b808-7f8792ccb832-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/c5c3a809-9bdb-561f-a485-92a758e3d73e",
+      "url": "https://www.nytimes.com/2022/11/02/opinion/stanford-antisemitism-report.html",
+      "id": 100000008596758,
+      "asset_id": 100000008596758,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-04 23:08:14",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Jews and Judaism;Anti-Semitism;Affirmative Action;Stanford University;Ivy League;Columbia University;California Polytechnic State University;Harvard University;Wellesley College",
+      "column": null,
+      "byline": "By Mark Oppenheimer",
+      "type": "Article",
+      "title": "The Meaning of Stanford’s Apology to Jews",
+      "abstract": "For decades, elite institutions sidelined Jewish students. What does that history tell us about affirmative action today?",
+      "des_facet": [
+        "Jews and Judaism",
+        "Anti-Semitism",
+        "Affirmative Action"
+      ],
+      "org_facet": [
+        "Stanford University",
+        "Ivy League",
+        "Columbia University",
+        "California Polytechnic State University",
+        "Harvard University",
+        "Wellesley College"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Illustration by Sam Whitney/The New York Times; photograph by jayk7, via Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/opinion/02oppenheimer-image/02oppenheimer-image-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/opinion/02oppenheimer-image/02oppenheimer-image-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/06/opinion/02oppenheimer-image/02oppenheimer-image-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/5323f4a2-f37b-5f00-905e-dc30cc798d02",
+      "url": "https://www.nytimes.com/2022/11/02/us/politics/republicans-social-security-medicare.html",
+      "id": 100000008610881,
+      "asset_id": 100000008610881,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-03 08:39:12",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Social Security (US);Medicare;Retirement;Midterm Elections (2022);United States Politics and Government;Biden, Joseph R Jr;Democratic Party;Republican Party;House of Representatives;Senate",
+      "column": null,
+      "byline": "By Jim Tankersley",
+      "type": "Article",
+      "title": "Republicans, Eyeing Majority, Float Changes to Social Security and Medicare",
+      "abstract": "Democrats have seized on Republican proposals to limit retirement benefits to galvanize voters ahead of the midterm elections.",
+      "des_facet": [
+        "Social Security (US)",
+        "Medicare",
+        "Retirement",
+        "Midterm Elections (2022)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Democratic Party",
+        "Republican Party",
+        "House of Representatives",
+        "Senate"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator Rick Scott, Republican of Florida, has proposed subjecting nearly all federal spending programs to a renewal vote every year, which would make Medicare and Social Security more vulnerable to budget cuts.",
+          "copyright": "Nicole Craine for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/business/02dc-entitlements01/02dc-entitlements01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/business/02dc-entitlements01/02dc-entitlements01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/02/business/02dc-entitlements01/02dc-entitlements01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/9265a7f8-34a2-5816-a22a-2a07add98b1d",
+      "url": "https://www.nytimes.com/2022/11/01/us/covid-college-students.html",
+      "id": 100000008586531,
+      "asset_id": 100000008586531,
+      "source": "New York Times",
+      "published_date": "2022-11-01",
+      "updated": "2022-11-02 12:22:06",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Colleges and Universities;Coronavirus (2019-nCoV);Mental Health and Disorders;Mathematics;Graduation Rates;Historically Black Colleges and Universities;Community Colleges;Benedict College;University of Oregon;Texas A&m University",
+      "column": null,
+      "byline": "By Eliza Fawcett",
+      "type": "Article",
+      "title": "The Pandemic Generation Goes to College. It Has Not Been Easy.",
+      "abstract": "Students missed a lot of high school instruction. Now many are behind, especially in math, and getting that degree could be harder.",
+      "des_facet": [
+        "Colleges and Universities",
+        "Coronavirus (2019-nCoV)",
+        "Mental Health and Disorders",
+        "Mathematics",
+        "Graduation Rates",
+        "Historically Black Colleges and Universities",
+        "Community Colleges"
+      ],
+      "org_facet": [
+        "Benedict College",
+        "University of Oregon",
+        "Texas A&m University"
+      ],
+      "per_facet": [
+        
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Jazeba Ahmad, a student at Columbus State Community College, said that she missed out on a lot during high school because of the pandemic.",
+          "copyright": "Maddie McGarvey for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/10/26/us/00nat-college-ready-1/merlin_215429313_fef3387b-ffb5-4fa9-be36-234240296572-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/26/us/00nat-college-ready-1/merlin_215429313_fef3387b-ffb5-4fa9-be36-234240296572-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/10/26/us/00nat-college-ready-1/merlin_215429313_fef3387b-ffb5-4fa9-be36-234240296572-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/868a78b7-2fa0-5424-93a1-4826b4c1d748",
+      "url": "https://www.nytimes.com/2022/11/02/arts/george-booth-dead.html",
+      "id": 100000007850292,
+      "asset_id": 100000007850292,
+      "source": "New York Times",
+      "published_date": "2022-11-02",
+      "updated": "2022-11-03 17:36:31",
+      "section": "Arts",
+      "subsection": "",
+      "nytdsection": "arts",
+      "adx_keywords": "Deaths (Obituaries);Cartoons and Cartoonists;Dogs;Cats;Booth, George;New Yorker",
+      "column": null,
+      "byline": "By Robert D. McFadden",
+      "type": "Article",
+      "title": "George Booth, New Yorker Cartoonist of Sublime Zaniness, Dies at 96",
+      "abstract": "He depicted a quirky cast of people and pets — notably his mad-as-a-hatter bull terrier, which became a reader favorite and the magazine’s unofficial mascot.",
+      "des_facet": [
+        "Deaths (Obituaries)",
+        "Cartoons and Cartoonists",
+        "Dogs",
+        "Cats"
+      ],
+      "org_facet": [
+        "New Yorker"
+      ],
+      "per_facet": [
+        "Booth, George"
+      ],
+      "geo_facet": [
+        
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The longtime New Yorker cartoonist George Booth, right, with the magazine’s cartoon editor at the time, Robert Mankoff, in 2001. In a half century at the magazine, Mr. Booth drew roughly a score of covers and hundreds of cartoons for the inside pages.",
+          "copyright": "Kathy Willens/Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/11/03/obituaries/00booth-10/00booth-10-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/03/obituaries/00booth-10/00booth-10-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/11/03/obituaries/00booth-10/00booth-10-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
